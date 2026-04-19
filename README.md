@@ -66,6 +66,4 @@ Because the SVM predicted a probability just under the 50% cutoff, it labeled th
 * **Dataset:** The dataset used for feature extraction is the [UCSD COVID-CT-Dataset](https://github.com/UCSD-AI4H/COVID-CT).
 * **Citation:** Zhao, Jinyu, et al. "COVID-CT-Dataset: a CT scan dataset about COVID-19." *arXiv preprint arXiv:2003.13865* (2020).
 * **Feature Extraction:** [PyRadiomics](https://pyradiomics.readthedocs.io/en/latest/) (Harvard-MGH AIM).
-## 🎓 Acknowledgments
-* **Dataset:** The dataset used for feature extraction is the [UCSD COVID-CT-Dataset](https://github.com/UCSD-AI4H/COVID-CT).
-* **Feature Extraction:** [PyRadiomics](https://pyradiomics.readthedocs.io/en/latest/) (Harvard-MGH AIM).
+
